@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<head>
+    <title>Ejercicio 02/2 - Tablas en HTML</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <th>TITULO</th>
+            <th>AUTOR</th>
+            <th>AÑO DE PUBLICACION</th>
+            <th>Enlace a Amazon</th>
+        </tr>
+
+        <tr>
+            <th>Los mitos de Cthulhu</th>
+            <th>H.p Lovecraft</th>
+            <th>2000-2010</th>
+            <th><a href=https://www.amazon.com/-/es/H-P-Lovecraft/dp/841839501X/ref=sr_1_1?keywords=los+mitos+de+cthulhu&qid=1662683575&sprefix=los+mitos+de%2Caps%2C229&sr=8-1>Enlace a amazon</a></th>
+        </tr>
+
+        <tr>
+            <th>La niebla</th>
+            <th>Stephen king</th>
+            <th>1980</th>
+            <th><a href="https://www.amazon.com/-/es/Stephen-King/dp/9875661244/ref=sr_1_1?keywords=la+niebla+stephen+king+spanish&qid=1662683285&sprefix=la+niebla%2Caps%2C256&sr=8-1">Enalce a Amazon</a></th>
+        </tr>
+
+        <tr>
+            <th>IT</th>
+            <th>Stephen king</th>
+            <th>2019</th>
+            <th><a href="https://www.amazon.com/-/es/dp/B01K9B90LY/ref=sr_1_3?keywords=it+stephen+king&qid=1662683614&sprefix=it+ste%2Caps%2C251&sr=8-3">Enlace a Amazon</a></th>
+        </tr>
+    </table>
+</body>
+</html>
