@@ -15,6 +15,7 @@
         <source src="Devil May Cry 3-Devils Never Cry  Sub Español (1).mp4" type="video/mp4"/>
     </video>
     <hr>
+    <h1>Aprendiendo a utilizar Audios<h1>
     <audio controls autoplay muted>
         <source src="mal-por-ti-official-video.mp3" type="audio/mp3"/>
     </audio>
