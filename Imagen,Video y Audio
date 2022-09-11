@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendiendo a utilizar Imagenes,video y Audio</title>
+</head>
+<body>
+    <h1>Aprendiendo a utilizar imagenes</h1>
+    <img src="dmc3" width="300" height="400"/>
+    <hr>
+    <h1>Aprendiendo a utilizar los videos</h1>
+    <video width="300" height="300" alt="Music video Dmc 3" autoplay loop controls muted >
+        <source src="Devil May Cry 3-Devils Never Cry  Sub Español (1).mp4" type="video/mp4"/>
+    </video>
+    <hr>
+    <audio controls autoplay muted>
+        <source src="mal-por-ti-official-video.mp3" type="audio/mp3"/>
+    </audio>
+</body>
+</html>
